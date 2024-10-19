@@ -22,6 +22,9 @@ Open the website in your preferred web browser.
 Browse through the different varieties of chips showcased on the website.
 Click on any chip to view more details (if applicable).
 Screenshots:
+please go through with above link for watching this clear.
+
+![Screenshot 2024-10-19 163517](https://github.com/user-attachments/assets/a9e1dc5a-452c-492b-ab84-01bccd0321a6)
 
 Contribution
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
